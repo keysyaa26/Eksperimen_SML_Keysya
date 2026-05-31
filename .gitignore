@@ -1,0 +1,5 @@
+
+.venv
+mlruns/
+.env
+Membangun_model/
